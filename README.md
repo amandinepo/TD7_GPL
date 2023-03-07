@@ -52,19 +52,22 @@ git commit -m "Edited lines 2 to 6 of README.md file"
 ```
 ## Q4 . Pull latest status from the remote repository ’master’ branch into your local ’master’ branch.
 ```
-
+git checkout master
+git pull origin master
 ```
 ## Q5 Merge your branch into the local ’master’ branch.
 ```
-
+git merge TD7
 ```
 ## Q6 If there are conflicts, we want the paragraph to appear in alphabetical order in the final README.md file.
 
 ```
+git add README.md
+git commit -m "Merged TD7 branch into master branch"
 
 ```
 ## Q7 Push your changes in the ’master’ branch to the remote repository.
 
 ```
-
+git push origin master
 ```
