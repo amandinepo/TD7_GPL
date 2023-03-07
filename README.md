@@ -76,15 +76,21 @@ git push origin master
 
 ## Q1 Pull the latest changes in the ’master’ branch, check the README.md is up-to-date (contains all the paragraphs and the new line).
 ```
+git checkout master
+git pull origin master
 ```
 ## Q2 Switch back to your own branch (not including the latest changes from the master branch).
 ```
+git checkout lucie
 ```
 ## Q3 Merge the changes from ’master’ to your own branch.
 ```
+git merge master
 ```
 ## Q4. Commit this change.
 ```
+git add README.md
+git commit -m "Merged changes from master branch into lucie branch"
 ```
 
 # Exercice 6
