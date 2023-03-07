@@ -46,7 +46,7 @@ git checkout Rachel
 git checkout TD7
 ```
 
-## Q2
+## Q2 Edit the lines 2 to 6 of the README.md file
 ```
 git add README.md
 ```
@@ -56,7 +56,7 @@ git add README.md
 git commit -m "Edited lines 2 to 6 of README.md file"
 ```
 
-## Q4 . Pull latest status from the remote repository ’master’ branch into your local ’master’ branch.
+## Q4 Pull latest status from the remote repository ’master’ branch into your local ’master’ branch.
 ```
 git checkout main
 git pull https://github.com/amandinepo/TD7_GPL.git main
@@ -96,7 +96,7 @@ git checkout lucie
 git merge main
 ```
 
-## Q4. Commit this change.
+## Q4 Commit this change.
 ```
 git add README.md
 git commit -m "Merged changes from master branch into lucie branch"
@@ -104,7 +104,7 @@ git commit -m "Merged changes from master branch into lucie branch"
 
 # Exercice 6
 
-## Q1. Delete your branch on local repository.
+## Q1 Delete your branch on local repository.
 ```
 git branch -d amandine
 ```
