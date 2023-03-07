@@ -5,7 +5,7 @@
 
 ## Q1 : Create a branch named after you
 ```
-git branch TD7
+git checkout -b TD7
 ```
 
 ## Q2 Create a new text file named after you (with the content you want)
@@ -21,7 +21,7 @@ git commit -m "Added new file with content"
 
 ## Q4  Push your branch to the remote repository
 ```
-git push -u TD7_GLP TD7
+git push  https://github.com/amandinepo/TD7_GPL.git TD7
 ```
 
 # Exercise 3: Merge simple changes
@@ -33,3 +33,12 @@ git merge ...
 git branch -d ...
 ```
 ## Q2 Push your changes in the ’master’ branch to the remote repository
+
+
+
+# Exercise 4 :  Resolve merge conflicts
+
+## Q1 Switch back to your own branch (not including the latest changes from the master branch)
+```
+git checkout Rachel
+```
