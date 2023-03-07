@@ -88,6 +88,7 @@ git push origin master
 ```
 
 # Exercice 6
+## Q1. Delete your branch on local repository.
 ```
 git branch -d amandine
 ```
