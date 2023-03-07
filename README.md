@@ -70,3 +70,19 @@ git commit -m "Merged TD7 branch into master branch"
 ```
 git push origin master
 ```
+
+# Exercise 5: Take latest changes from master in local branch
+
+
+## Q1 Pull the latest changes in the ’master’ branch, check the README.md is up-to-date (contains all the paragraphs and the new line).
+```
+```
+## Q2 Switch back to your own branch (not including the latest changes from the master branch).
+```
+```
+## Q3 Merge the changes from ’master’ to your own branch.
+```
+```
+## Q4. Commit this change.
+```
+```
