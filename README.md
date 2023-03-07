@@ -63,3 +63,8 @@ git commit -m "Edited lines 2 to 6 of README.md file"
 ```
 
 ```
+## Q7 Push your changes in the ’master’ branch to the remote repository.
+
+```
+
+```
