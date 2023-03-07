@@ -43,7 +43,6 @@ git push https://github.com/amandinepo/TD7_GPL.git main
 ## Q1. Switch back to your own branch (not including the latest changes from the master branch)
 ```
 git checkout Rachel
-git checkout TD7
 ```
 
 ## Q2. Edit the lines 2 to 6 of the README.md file
