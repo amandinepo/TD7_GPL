@@ -40,13 +40,21 @@ git merge <branch name>
 ## Q1 Switch back to your own branch (not including the latest changes from the master branch)
 ```
 git checkout Rachel
+git checkout TD7
 ```
 ## Q2
 ```
 git add README.md
 ```
-## Q3
+## Q3 Commit this change
 ```
 git commit -m "Edited lines 2 to 6 of README.md file"
+```
+## Q4 . Pull latest status from the remote repository ’master’ branch into your
+local ’master’ branch.
+```
 
 ```
+## Q5 Merge your branch into the local ’master’ branch.
+
+## Q6 If there are conflicts, we want the p
