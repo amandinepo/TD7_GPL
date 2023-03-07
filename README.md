@@ -30,7 +30,7 @@ git push  https://github.com/amandinepo/TD7_GPL.git TD7
 ## Q1 Merge your branch into the ’master’ branch
 ```
 git ckeckout main
-git merge <branch name>
+git merge Rachel
 ```
 
 ## Q2 Push your changes in the ’master’ branch to the remote repository
@@ -59,7 +59,7 @@ git commit -m "Edited lines 2 to 6 of README.md file"
 ## Q4 . Pull latest status from the remote repository ’master’ branch into your local ’master’ branch.
 ```
 git checkout main
-git pull origin main
+git pull https://github.com/amandinepo/TD7_GPL.git main
 ```
 
 ## Q5 Merge your branch into the local ’master’ branch.
