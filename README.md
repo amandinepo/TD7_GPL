@@ -47,11 +47,12 @@ git checkout Rachel
 
 ## Q2. Edit the lines 2 to 6 of the README.md file
 ```
-git add README.md
+vim README.md
 ```
 
 ## Q3. Commit this change
 ```
+git add README.md
 git commit -m "Edited lines 2 to 6 of README.md file"
 ```
 
