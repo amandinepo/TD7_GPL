@@ -85,7 +85,7 @@ git checkout lucie
 ```
 ## Q3 Merge the changes from ’master’ to your own branch.
 ```
-git merge master
+git merge main
 ```
 ## Q4. Commit this change.
 ```
