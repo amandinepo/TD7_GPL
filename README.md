@@ -29,8 +29,7 @@ git push  https://github.com/amandinepo/TD7_GPL.git TD7
 ## Q1 Merge your branch into the ’master’ branch
 ```
 git ckeckout main
-git merge ...
-git branch -d ...
+git merge <branch name>
 ```
 ## Q2 Push your changes in the ’master’ branch to the remote repository
 
