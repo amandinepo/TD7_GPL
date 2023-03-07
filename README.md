@@ -1,7 +1,7 @@
 # TD7_GPL
 
 
-# Exercise 2 : Push files to common repository
+## Exercise 2 : Push files to common repository
 
 # Q1 : Create a branch named after you
 ```
@@ -22,3 +22,7 @@ git commit -m "Added new file with content"
 ```
 git push -u origin TD7
 ```
+
+## Exercise 3: Merge simple changes
+
+# Q1 
