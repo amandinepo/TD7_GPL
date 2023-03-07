@@ -20,7 +20,7 @@ git commit -m "Added new file with content"
 
 ## Q4  Push your branch to the remote repository
 ```
-git push -u origin TD7
+git push -u TD7_GLP TD7
 ```
 
 # Exercise 3: Merge simple changes
