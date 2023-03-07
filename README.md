@@ -64,11 +64,11 @@ git merge TD7
 
 ```
 git add README.md
-git commit -m "Merged TD7 branch into master branch"
+git commit -m "Merged TD7 branch into main branch"
 ```
 ## Q7 Push your changes in the ’master’ branch to the remote repository.
 ```
-git push origin master
+git push origin main
 ```
 
 # Exercise 5: Take latest changes from master in local branch
@@ -90,7 +90,7 @@ git merge main
 ## Q4. Commit this change.
 ```
 git add README.md
-git commit -m "Merged changes from master branch into lucie branch"
+git commit -m "Merged changes from main branch into lucie branch"
 ```
 
 # Exercice 6
