@@ -32,8 +32,9 @@ git ckeckout main
 git merge <branch name>
 ```
 ## Q2 Push your changes in the ’master’ branch to the remote repository
-
-
+```
+git push origin master
+```
 
 # Exercise 4 :  Resolve merge conflicts
 
@@ -64,10 +65,8 @@ git merge TD7
 ```
 git add README.md
 git commit -m "Merged TD7 branch into master branch"
-
 ```
 ## Q7 Push your changes in the ’master’ branch to the remote repository.
-
 ```
 git push origin master
 ```
