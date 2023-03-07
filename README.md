@@ -25,9 +25,10 @@ git push -u TD7_GLP TD7
 
 # Exercise 3: Merge simple changes
 
-## Q1 
+## Q1 Merge your branch into the ’master’ branch
 ```
 git ckeckout main
 git merge ...
 git branch -d ...
 ```
+## Q2 Push your changes in the ’master’ branch to the remote repository
