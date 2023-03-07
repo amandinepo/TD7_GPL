@@ -86,3 +86,8 @@ git push origin master
 ## Q4. Commit this change.
 ```
 ```
+
+# Exercice 6
+```
+git branch -d amandine
+```
