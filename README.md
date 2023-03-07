@@ -5,12 +5,13 @@
 
 ## Q1 : Create a branch named after you
 ```
-git checkout -b TD7
+git branch TD7
 ```
 
 ## Q2 Create a new text file named after you (with the content you want)
 ```
 touch TD7.txt
+echo "This is the tutorial 7"
 ```
 ## Q3 Commit this new file.
 ```
