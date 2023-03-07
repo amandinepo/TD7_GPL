@@ -20,5 +20,5 @@ git commit -m "Added new file with content"
 
 # Q4  Push your branch to the remote repository
 ```
-
+git push -u origin TD7
 ```
