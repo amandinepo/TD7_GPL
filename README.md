@@ -40,7 +40,13 @@ git merge <branch name>
 ## Q1 Switch back to your own branch (not including the latest changes from the master branch)
 ```
 git checkout Rachel
+```
+## Q2
+```
 git add README.md
+```
+## Q3
+```
 git commit -m "Edited lines 2 to 6 of README.md file"
 
 ```
