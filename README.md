@@ -5,24 +5,24 @@
 
 ## Q1. Create a branch named after you
 ```
-git checkout -b TD7
+git checkout -b Rachel
 ```
 
 ## Q2. Create a new text file named after you (with the content you want)
 ```
-> TD7.txt
+> Rachel.txt
 echo "This is the tutorial 7"
 ```
 
 ## Q3. Commit this new file.
 ```
-git add TD7.txt
+git add Rachel.txt
 git commit -m "Added new file with content"
 ```
 
 ## Q4. Push your branch to the remote repository
 ```
-git push  https://github.com/amandinepo/TD7_GPL.git TD7
+git push  https://github.com/amandinepo/TD7_GPL.git Rachel
 ```
 
 # Exercise 3: Merge simple changes
