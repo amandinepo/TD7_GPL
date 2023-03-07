@@ -10,5 +10,15 @@ git checkout -b TD7
 
 # Q2 Create a new text file named after you (with the content you want)
 ```
+touch TD7.txt
+```
+# Q3 Commit this new file.
+```
+git add TD7.txt
+git commit -m "Added new file with content"
+```
+
+# Q4  Push your branch to the remote repository
+```
 
 ```
