@@ -26,8 +26,8 @@ git push -u TD7_GLP TD7
 # Exercise 3: Merge simple changes
 
 ## Q1 
-'''
+```
 git ckeckout main
 git merge ...
 git branch -d ...
-'''
+```
