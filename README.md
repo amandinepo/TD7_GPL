@@ -50,11 +50,16 @@ git add README.md
 ```
 git commit -m "Edited lines 2 to 6 of README.md file"
 ```
-## Q4 . Pull latest status from the remote repository ’master’ branch into your
-local ’master’ branch.
+## Q4 . Pull latest status from the remote repository ’master’ branch into your local ’master’ branch.
 ```
 
 ```
 ## Q5 Merge your branch into the local ’master’ branch.
+```
 
-## Q6 If there are conflicts, we want the p
+```
+## Q6 If there are conflicts, we want the paragraph to appear in alphabetical order in the final README.md file.
+
+```
+
+```
