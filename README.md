@@ -29,7 +29,7 @@ git push  https://github.com/amandinepo/TD7_GPL.git Rachel
 
 ## Q1. Merge your branch into the ’master’ branch
 ```
-git ckeckout main
+git ckeckout master
 git merge Rachel
 ```
 
