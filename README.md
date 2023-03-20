@@ -114,4 +114,14 @@ git branch -d amandine
 git push origin -d Rachel
 ```
 
+# Exercice 7
 
+## Q1. Pull the latest changes in the ’master’ branch.
+```
+
+```
+
+## Q2. Create a new local branch named after you and switch to it.
+```
+
+```
