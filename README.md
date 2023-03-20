@@ -126,3 +126,20 @@ git push origin -d Rachel
 git branch amandine
 git checkout amandine
 ```
+## Q3. Then with a separate commit for each change.
+## a. Clear the whole file, removing all text.
+```
+
+```
+## b. Add a title line "Git interactive rebase".
+```
+
+```
+## c. Copy the first paragraph from https ://git-scm.com/book/en/v2/Git-Tools-Rewriting-History.
+```
+
+```
+## d. Add the second paragraph from the same page.
+```
+
+```
