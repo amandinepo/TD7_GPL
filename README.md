@@ -108,3 +108,10 @@ git commit -m "Merged changes from master branch into lucie branch"
 ```
 git branch -d amandine
 ```
+
+## Q2. Delete your branch on local repository.
+```
+git push origin -d Rachel
+```
+
+
