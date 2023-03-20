@@ -5,7 +5,7 @@
 
 ## Q1. Create a branch named after you
 ```
-git checkout -b Rachel
+git branch amandine
 ```
 
 ## Q2. Create a new text file named after you (with the content you want)
@@ -123,5 +123,6 @@ git push origin -d Rachel
 
 ## Q2. Create a new local branch named after you and switch to it.
 ```
-
+git branch amandine
+git checkout amandine
 ```
